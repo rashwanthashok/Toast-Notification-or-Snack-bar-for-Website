@@ -17,7 +17,7 @@ Rashwanth - Toast Notification Bar/ Snack Bar
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Toast-Notification-Bar/
+    https://rashwanthashok.github.io/Toast-Notification-or-Snack-bar-for-Website/
     
 ## Getting Started
 
