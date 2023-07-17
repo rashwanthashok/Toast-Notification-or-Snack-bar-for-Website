@@ -41,6 +41,10 @@ To explore or modify the code, follow these steps:
 2. Dynamic Progress Bar: Keep track of notification duration with a color-coded progress bar that gradually reduces, providing a visual representation of remaining time.
 
 3. Partially Responsive Design: Enjoy the notification bar across devices, although it may not fully adapt to all screen sizes.
+
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/031faddc-b742-4f28-abf5-20e4e4237cf5/deploy-status)](https://app.netlify.com/sites/jsprojects9-toast-notification/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
